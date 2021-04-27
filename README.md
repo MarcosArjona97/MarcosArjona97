@@ -1,6 +1,16 @@
-### Hola! Bienvenido! 👋
+### Hola 👋, mi nombre es Marcos!
+#### Soy Web Developer Full-stack
+![Soy Web Developer Full-stack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Mi nombre es Marcos Arjona, tengo 23 años y soy de Argentina. Soy Full-stack Web Developer, estoy realizando mi formación en el bootcamp intensivo de "Henry". Actualmente me encuentro buscando trabajo mientras termino de desarrollar el proyecto final (grupal) para alcanzar mi graduación.
-Me encanta estar aprendiendo, aceptar ideas nuevas e innovadoras, compartir y/o enseñar mis conocimientos, pero sobretodo me fascina entender y saber como funciona todo lo que hago y lo que me rodea. Disfruto mucho hacer código y ver como a partir de una hoja en blanco se pueden crear grandes cosas 😄
+Mi nombre es Marcos Arjona, tengo 23 años y soy de Argentina. Soy Full-stack Web Developer, estoy realizando mi formación en el bootcamp intensivo de "Henry". Actualmente me encuentro buscando trabajo mientras termino de desarrollar el proyecto final (grupal) para alcanzar mi graduación. Me gusta aprender tanto como enseñar. Me siento muy cómodo desarrollando tanto en Front como en Back (aunque me gusta un poquito mas el Back :sweat_smile: )
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosArjona97)](https://github.com/anuraghazra/github-readme-stats)
+Habilidades: JAVASCRIPT / REACT JS / HTML 5/ CSS 3 / REDUX / NODE JS / POSTGRESQL /
+
+- 🌱 Estoy aprendiendo todo lo que pueda 
+- 📫 Cómo contactarme: marcosarjonapsn@gmail.com 
+- ⚡ Dato curioso: Me gustan los videojuegos / Armo variedad de puzzles estilo Rubik's Cube / Toco el piano hace 8 años 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarcosArjona97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcos-arjona-5ab781204/)  
+
+
