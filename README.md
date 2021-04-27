@@ -2,7 +2,7 @@
 #### Soy Web Developer Full-stack
 ![Soy Web Developer Full-stack](https://wallpapercave.com/wp/wp2465898.png)
 
-Mi nombre es Marcos Arjona, tengo 23 años y soy de Argentina. Soy Full-stack Web Developer, estoy realizando mi formación en el bootcamp intensivo de "Henry". Actualmente me encuentro buscando trabajo mientras termino de desarrollar el proyecto final (grupal) para alcanzar mi graduación. Me gusta aprender tanto como enseñar. Me siento muy cómodo desarrollando tanto en Front como en Back (aunque me gusta un poquito mas el Back :sweat_smile: )
+Mi nombre es Marcos Arjona, tengo 23 años y soy de Argentina. Soy Full-stack Web Developer, estoy realizando mi formación en el bootcamp intensivo de "Henry". Actualmente me encuentro buscando trabajo mientras termino de desarrollar el proyecto final (grupal) para alcanzar mi graduación. Me gusta aprender tanto como enseñar y me siento cómodo trabajando con personas con las que nos podamos potenciar. Soy muy activo, metódico, responsable y comprometido con el trabajo. Me siento muy cómodo desarrollando tanto en Front como en Back (aunque me gusta un poquito mas el Back :sweat_smile: )
 
 Habilidades: JAVASCRIPT / REACT.JS / HTML 5/ CSS 3 / REDUX / NODE.JS / POSTGRESQL / EXPRESS.JS / SEQUELIZE
 
